@@ -67,11 +67,11 @@ Regression analysis was used to test attribute importance and model fit.
 - `SPSS Smartwatches Segmentation.pdf` – Cluster output from SPSS  
 - `Conjoint_Experimental_Design.xlsm` – Excel design used for conjoint experiment  
 
-## 🧩 Conclusion  
+## Conclusion  
 This project provides useful insights for smartwatch manufacturers and marketers.  
 It shows how **data-driven segmentation and conjoint analysis** can guide **product development** and **pricing strategy** in the competitive wearable technology market.
 
-## 👩‍💻 Author 
+## Author 
 **Ashutosh Pathak**  
 Business Analytics Student | Data Enthusiast  
 ashup1033@gmail.com
