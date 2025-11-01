@@ -1,4 +1,4 @@
-# 📊 Smartwatches Consumer Analysis Project
+# Smartwatches Consumer Analysis Project
 
 ## About the Project  
 This project is part of my Business Analytics study. The main purpose of this analysis is to understand **consumer preferences and buying behavior** toward smartwatches.  
